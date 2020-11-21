@@ -14,6 +14,7 @@ public class Activity8_2 {
 		WebDriver driver = new FirefoxDriver();
 		WebDriverWait wait = new WebDriverWait(driver,10);
 		driver.get("https://training-support.net/selenium/ajax");
+		//wait.until(isTrue)
 		driver.findElement(By.xpath("//button[contains(@class,'violet')]")).click();
 		wait.until(ExpectedConditions.textToBePresentInElementLocated(By.id("ajax-content"),"Hello!"));
 		String ajaxText=driver.findElement(By.id("ajax-content")).getText();
