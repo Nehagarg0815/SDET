@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="160236" started-at="2020-11-24T12:14:28 IST" finished-at="2020-11-24T12:17:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="160236" started-at="2020-11-24T12:14:28 IST" finished-at="2020-11-24T12:17:09 IST">
+      <class name="crm_project.Activity6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:crm_project.Activity6@2bbf4b8b]" name="beforeClass" is-config="true" duration-ms="9734" started-at="2020-11-24T12:15:44 IST" finished-at="2020-11-24T12:15:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="activities(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity6@2bbf4b8b]" name="activities" duration-ms="3502" started-at="2020-11-24T12:15:54 IST" data-provider="Authentication" finished-at="2020-11-24T12:15:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activities -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:crm_project.Activity6@2bbf4b8b]" name="afterClass" is-config="true" duration-ms="1710" started-at="2020-11-24T12:15:57 IST" finished-at="2020-11-24T12:15:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- crm_project.Activity6 -->
+      <class name="crm_project.Activity5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:crm_project.Activity5@1563da5]" name="beforeClass" is-config="true" duration-ms="4930" started-at="2020-11-24T12:15:29 IST" finished-at="2020-11-24T12:15:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="navigationMenuColor(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity5@1563da5]" name="navigationMenuColor" duration-ms="8760" started-at="2020-11-24T12:15:34 IST" data-provider="Authentication" finished-at="2020-11-24T12:15:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationMenuColor -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:crm_project.Activity5@1563da5]" name="afterClass" is-config="true" duration-ms="1966" started-at="2020-11-24T12:15:42 IST" finished-at="2020-11-24T12:15:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- crm_project.Activity5 -->
+      <class name="crm_project.Activity8">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:crm_project.Activity8@33c7e1bb]" name="beforeClass" is-config="true" duration-ms="8963" started-at="2020-11-24T12:16:27 IST" finished-at="2020-11-24T12:16:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginTestCase(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity8@33c7e1bb]" name="loginTestCase" duration-ms="8553" started-at="2020-11-24T12:16:36 IST" data-provider="Authentication" finished-at="2020-11-24T12:16:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:crm_project.Activity8@33c7e1bb]" name="afterClass" is-config="true" duration-ms="2086" started-at="2020-11-24T12:16:45 IST" finished-at="2020-11-24T12:16:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- crm_project.Activity8 -->
+      <class name="crm_project.Activity7">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:crm_project.Activity7@30a3107a]" name="beforeClass" is-config="true" duration-ms="10055" started-at="2020-11-24T12:15:59 IST" finished-at="2020-11-24T12:16:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tableInfo(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity7@30a3107a]" name="tableInfo" duration-ms="16297" started-at="2020-11-24T12:16:09 IST" data-provider="Authentication" finished-at="2020-11-24T12:16:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableInfo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:crm_project.Activity7@30a3107a]" name="afterClass" is-config="true" duration-ms="1690" started-at="2020-11-24T12:16:26 IST" finished-at="2020-11-24T12:16:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- crm_project.Activity7 -->
+      <class name="crm_project.Activity9">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:crm_project.Activity9@34c4973]" name="beforeClass" is-config="true" duration-ms="4883" started-at="2020-11-24T12:16:47 IST" finished-at="2020-11-24T12:16:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:crm_project.Activity9@34c4973]" name="f" duration-ms="14964" started-at="2020-11-24T12:16:52 IST" finished-at="2020-11-24T12:17:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:crm_project.Activity9@34c4973]" name="afterClass" is-config="true" duration-ms="2005" started-at="2020-11-24T12:17:07 IST" finished-at="2020-11-24T12:17:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- crm_project.Activity9 -->
+      <class name="crm_project.Activity2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:crm_project.Activity2@5faeada1]" name="beforeMethod" is-config="true" duration-ms="9611" started-at="2020-11-24T12:14:46 IST" finished-at="2020-11-24T12:14:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="crm()[pri:0, instance:crm_project.Activity2@5faeada1]" name="crm" duration-ms="98" started-at="2020-11-24T12:14:56 IST" finished-at="2020-11-24T12:14:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:crm_project.Activity2@5faeada1]" name="afterMethod" is-config="true" duration-ms="1764" started-at="2020-11-24T12:14:56 IST" finished-at="2020-11-24T12:14:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- crm_project.Activity2 -->
+      <class name="crm_project.Activity1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:crm_project.Activity1@7a1ebcd8]" name="beforeMethod" is-config="true" duration-ms="8042" started-at="2020-11-24T12:14:29 IST" finished-at="2020-11-24T12:14:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="titleVerification(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity1@7a1ebcd8]" name="titleVerification" duration-ms="7587" started-at="2020-11-24T12:14:37 IST" data-provider="Authentication" finished-at="2020-11-24T12:14:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerification -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:crm_project.Activity1@7a1ebcd8]" name="afterMethod" is-config="true" duration-ms="1820" started-at="2020-11-24T12:14:44 IST" finished-at="2020-11-24T12:14:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- crm_project.Activity1 -->
+      <class name="crm_project.Activity4">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:crm_project.Activity4@ea1a8d5]" name="beforeMethod" is-config="true" duration-ms="10351" started-at="2020-11-24T12:15:12 IST" finished-at="2020-11-24T12:15:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTestCase(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity4@ea1a8d5]" name="loginTestCase" duration-ms="4004" started-at="2020-11-24T12:15:22 IST" data-provider="Authentication" finished-at="2020-11-24T12:15:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:crm_project.Activity4@ea1a8d5]" name="afterMethod" is-config="true" duration-ms="2252" started-at="2020-11-24T12:15:26 IST" finished-at="2020-11-24T12:15:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- crm_project.Activity4 -->
+      <class name="crm_project.Activity3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:crm_project.Activity3@528931cf]" name="beforeClass" is-config="true" duration-ms="5047" started-at="2020-11-24T12:14:57 IST" finished-at="2020-11-24T12:15:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="copyColorIdentification(java.lang.String, java.lang.String)[pri:0, instance:crm_project.Activity3@528931cf]" name="copyColorIdentification" duration-ms="7329" started-at="2020-11-24T12:15:03 IST" data-provider="Authentication" finished-at="2020-11-24T12:15:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyColorIdentification -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:crm_project.Activity3@528931cf]" name="afterClass" is-config="true" duration-ms="2107" started-at="2020-11-24T12:15:10 IST" finished-at="2020-11-24T12:15:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- crm_project.Activity3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

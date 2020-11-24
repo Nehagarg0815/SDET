@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="crm_project.Activity1"/>
+      <class name="crm_project.Activity2"/>
+      <class name="crm_project.Activity3"/>
+      <class name="crm_project.Activity4"/>
+      <class name="crm_project.Activity5"/>
+      <class name="crm_project.Activity6"/>
+      <class name="crm_project.Activity7"/>
+      <class name="crm_project.Activity8"/>
+      <class name="crm_project.Activity9"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
